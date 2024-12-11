@@ -38,7 +38,7 @@ require (
 	github.com/go-openapi/validate v0.20.1 // indirect
 	github.com/go-test/deep v1.0.4 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.2.0
 	github.com/hashicorp/go-uuid v1.0.2
@@ -50,9 +50,7 @@ require (
 	github.com/minsikl/netscaler-nitro-go v0.0.0-20170827154432-5b14ce3643e3
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/softlayer/softlayer-go v1.0.3
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/sys v0.0.0-20211004093028-2c5d950f24ef // indirect
-	golang.org/x/tools v0.1.7 // indirect
+	golang.org/x/crypto v0.31.0
 	google.golang.org/api v0.34.0 // indirect
 	gotest.tools v2.2.0+incompatible
 )
